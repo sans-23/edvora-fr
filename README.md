@@ -1,2 +1,1 @@
-# edvora-fr
-reactjs project
+# edvora-frontend
